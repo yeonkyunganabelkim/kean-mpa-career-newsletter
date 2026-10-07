@@ -14,19 +14,23 @@
   "status": "published",
   "files": {
     "2026-10-07_issue01.md": {
-      "sha256": "08d2142e286a4b378c6da4f5c911846259c4cb02aa8448d970f24f6475d4b8ed"
+      "sha256": "4ca7592e4c49534fb6918dbd00ef16038dde7149c05a8ae0cb696f08079975dc"
     },
     "2026-10-07_issue01.html": {
-      "sha256": "7c39ce6a54f1c2770f42647e66d6735ffc1ba6135a11a66c860f295b33b8ef93"
+      "sha256": "efe77f3382c49b8f42ad0204b1fe8d412f132ce26800077714e2ad3dd21c37c5"
     },
     "2026-10-07_issue01.txt": {
-      "sha256": "9e896dd662daa0221bf53123a88dbdffdfbdb3bfae7509d65aae1ded948b5fa9"
+      "sha256": "e22247cb886ce50affa4711eb700de39e1abe83e101a2f66cc4e5be15e70ee44"
     }
   },
   "corrections": [
     {
       "date": "2026-10-07",
       "reason": "Editorial revision to audience labels and reader-facing tone; no job content changed."
+    },
+    {
+      "date": "2026-10-07",
+      "reason": "Added reusable newsletter header image; no job content changed."
     }
   ]
 }
