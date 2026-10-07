@@ -14,14 +14,19 @@
   "status": "published",
   "files": {
     "2026-10-07_issue01.md": {
-      "sha256": "c7734866feaefcc29ccc0487b62ce61146592c0b2e91f0073221f2eef41927cc"
+      "sha256": "08d2142e286a4b378c6da4f5c911846259c4cb02aa8448d970f24f6475d4b8ed"
     },
     "2026-10-07_issue01.html": {
-      "sha256": "4cd3e06b77a1a69d5103f87c2272859e4efc4ec719ddeb6c9dfede740c0016a3"
+      "sha256": "7c39ce6a54f1c2770f42647e66d6735ffc1ba6135a11a66c860f295b33b8ef93"
     },
     "2026-10-07_issue01.txt": {
-      "sha256": "e7d5917a7a3c2096d231a32ea4f3805d9fe28fd46baed04e0d22aa3f63393b9f"
+      "sha256": "9e896dd662daa0221bf53123a88dbdffdfbdb3bfae7509d65aae1ded948b5fa9"
     }
   },
-  "corrections": []
+  "corrections": [
+    {
+      "date": "2026-10-07",
+      "reason": "Editorial revision to audience labels and reader-facing tone; no job content changed."
+    }
+  ]
 }

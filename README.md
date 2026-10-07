@@ -1,8 +1,8 @@
 # Kean MPA Career Opportunities
 
-A biweekly collection of selected career opportunities for Kean University MPA students, recent graduates, and alumni.
+A biweekly collection of selected career opportunities for Kean University MPA students and recent graduates.
 
-Each issue highlights openings in New Jersey government, nonprofits, and higher education that may be a good fit for people with an MPA. Job postings can change or close quickly, so please confirm requirements and deadlines on the employer's original posting before applying.
+Each issue highlights openings in New Jersey government, nonprofits, and higher education that may be worth a look, whether you are searching for your first professional role, thinking about advancement, or considering a career move or pivot. Job postings can change or close quickly, so please confirm requirements and deadlines on the employer's original posting before applying.
 
 ## Newsletter Archive
 
