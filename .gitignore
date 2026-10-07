@@ -1,0 +1,33 @@
+# This repository holds published newsletter issues only.
+# Nothing below belongs here; these rules keep it out if it ever appears.
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Databases and logs
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Working folders and unpublished files
+output/
+data/
+backups/
+*_draft.*
+*_selection.md
+
+# Mailing lists
+*recipients*
+*subscribers*
+*mailing*list*
+
+# Local and editor files
+.DS_Store
+__pycache__/
+.claude/
+.vscode/
+.idea/
