@@ -1,0 +1,35 @@
+{
+  "issue_number": 2,
+  "issue_date": "2026-10-22",
+  "publication_date": "2026-10-22",
+  "job_count": 16,
+  "student_recent_graduate_count": 8,
+  "experienced_professional_count": 8,
+  "still_open_repeat_count": 0,
+  "global_example_count": 1,
+  "sectors": {
+    "Local Government": 8,
+    "New Jersey State Government": 1,
+    "Nonprofit / Philanthropy": 4,
+    "Higher Education": 3
+  },
+  "status": "published",
+  "files": {
+    "2026-10-22_issue02.md": {
+      "sha256": "cafbccd70d6ad832515b0355ee29a7d9c0b748e798362c363941850366a60fbb"
+    },
+    "2026-10-22_issue02.html": {
+      "sha256": "548aafd5a0befe60f237b200a1b000d255720dce8da385a1113c6cd509a88a28"
+    },
+    "2026-10-22_issue02.txt": {
+      "sha256": "cc5db3a71f684c73f72c59ff5fd33535ef3f1858de03d3f3eb3d4fa19f0ba901"
+    }
+  },
+  "corrections": [
+    {
+      "date": "2026-10-22",
+      "reason": "Use the new newsletter banner; no job content changed"
+    }
+  ],
+  "approved_at": "2026-10-22T16:30:30"
+}

@@ -8,4 +8,5 @@ Each issue highlights openings in New Jersey government, nonprofits, and higher 
 
 ### 2026
 
+- [Issue #2 — October 22, 2026](archive/2026/issue-002/2026-10-22_issue02.md)
 - [Issue #1 — October 7, 2026](archive/2026/issue-001/2026-10-07_issue01.md)
