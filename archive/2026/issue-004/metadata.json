@@ -1,0 +1,30 @@
+{
+  "issue_number": 4,
+  "issue_date": "2026-11-17",
+  "publication_date": "2026-11-17",
+  "job_count": 16,
+  "student_recent_graduate_count": 9,
+  "experienced_professional_count": 7,
+  "still_open_repeat_count": 0,
+  "global_example_count": 0,
+  "sectors": {
+    "Higher Education": 5,
+    "Local Government": 6,
+    "Nonprofit / Philanthropy": 4,
+    "Federal Government": 1
+  },
+  "status": "published",
+  "files": {
+    "2026-11-17_issue04.md": {
+      "sha256": "9d10bc2cc69eb3a846a694bff09b57f63ed076b7b96d21a6d8a85e9fcb33f287"
+    },
+    "2026-11-17_issue04.html": {
+      "sha256": "35139a7f6e752b8a9fe2c50e36b19481434d93a2883e64ba4e0d2f5c43e254d2"
+    },
+    "2026-11-17_issue04.txt": {
+      "sha256": "085f374cf13c79d7c713800c33fbe299f5e7eff5c88231e586efa410d2aa61b4"
+    }
+  },
+  "corrections": [],
+  "approved_at": "2026-11-17T15:59:08"
+}
