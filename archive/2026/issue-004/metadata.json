@@ -6,25 +6,30 @@
   "student_recent_graduate_count": 9,
   "experienced_professional_count": 7,
   "still_open_repeat_count": 0,
-  "global_example_count": 0,
+  "global_example_count": 2,
   "sectors": {
-    "Higher Education": 5,
+    "Higher Education": 6,
     "Local Government": 6,
-    "Nonprofit / Philanthropy": 4,
+    "Nonprofit / Philanthropy": 3,
     "Federal Government": 1
   },
   "status": "published",
   "files": {
     "2026-11-17_issue04.md": {
-      "sha256": "9d10bc2cc69eb3a846a694bff09b57f63ed076b7b96d21a6d8a85e9fcb33f287"
+      "sha256": "0b934ee79cce56f5904503ac0cc68357e30729d795252f335f5f71cc27243394"
     },
     "2026-11-17_issue04.html": {
-      "sha256": "35139a7f6e752b8a9fe2c50e36b19481434d93a2883e64ba4e0d2f5c43e254d2"
+      "sha256": "28e0f2cc76d75057fad0014aea25491c38059aecdbff8728ad162ff8b38b9d98"
     },
     "2026-11-17_issue04.txt": {
-      "sha256": "085f374cf13c79d7c713800c33fbe299f5e7eff5c88231e586efa410d2aa61b4"
+      "sha256": "088b622668c8475c5d7197b62b74727b92d9b157e2745bf4ec2e7e5234d0f343"
     }
   },
-  "corrections": [],
-  "approved_at": "2026-11-17T15:59:08"
+  "corrections": [
+    {
+      "date": "2026-11-19",
+      "reason": "Refreshed before e-mailing: reverified jobs Nov 19, replaced one, added ASPA and two UNDP opportunities; dated Nov 19, 2026"
+    }
+  ],
+  "approved_at": "2026-11-19T16:26:42"
 }
